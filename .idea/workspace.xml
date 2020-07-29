@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="59f3ec9e-0b13-476e-9d0e-9392fa34460f" name="Default Changelist" comment="" />
+    <list default="true" id="59f3ec9e-0b13-476e-9d0e-9392fa34460f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/NoteController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/NoteController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/UserController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/UserController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/api.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/api.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -12,6 +19,9 @@
     <execution>
       <executable />
     </execution>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
@@ -131,6 +141,7 @@
     </include_path>
   </component>
   <component name="ProjectId" id="1fK7hZsLy39Vpi0oCkYjTisydEi" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="autoscrollFromSource" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -139,6 +150,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../demoJWT" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -166,7 +178,7 @@
       <option name="presentableId" value="Default" />
       <updated>1595955049881</updated>
       <workItem from="1595955052201" duration="790000" />
-      <workItem from="1595985844709" duration="3578000" />
+      <workItem from="1595985844709" duration="8897000" />
     </task>
     <servers />
   </component>
@@ -186,9 +198,9 @@
       <screen x="0" y="27" width="1366" height="704" />
     </state>
     <state x="557" y="199" width="809" height="373" key="NewPhpClassDialog/0.27.1366.704@0.27.1366.704" timestamp="1595986574934" />
-    <state x="833" y="311" width="399" height="149" key="NewPhpFileDialog" timestamp="1595986205544">
+    <state x="688" y="263" width="399" height="149" key="NewPhpFileDialog" timestamp="1596008487590">
       <screen x="0" y="27" width="1366" height="704" />
     </state>
-    <state x="833" y="311" width="399" height="149" key="NewPhpFileDialog/0.27.1366.704@0.27.1366.704" timestamp="1595986205544" />
+    <state x="688" y="263" width="399" height="149" key="NewPhpFileDialog/0.27.1366.704@0.27.1366.704" timestamp="1596008487590" />
   </component>
 </project>

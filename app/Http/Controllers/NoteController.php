@@ -12,9 +12,9 @@ class NoteController extends Controller
         $todos = Note::all();
 
         return response()->json([
-            'status'=>200,
-            'message'=>'OK',
-            'todos'=>$todos
+            'status' => 200,
+            'message' => 'OK',
+            'todos' => $todos
         ]);
     }
 }
